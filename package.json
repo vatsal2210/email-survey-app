@@ -1,0 +1,39 @@
+{
+  "name": "email-survey-app",
+  "version": "1.0.0",
+  "description": "Email Survey app - Full solution with MERN stack. ",
+  "main": "app.js",
+  "engines": {
+    "node": "12.14.0",
+    "npm": "6.13.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vatsal2210/email-survey-app.git"
+  },
+  "keywords": [
+    "email",
+    "survey",
+    "app",
+    "stripe",
+    "authentication",
+    "email",
+    "service",
+    "react",
+    "express",
+    "nodejs"
+  ],
+  "author": "Vatsal Shah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vatsal2210/email-survey-app/issues"
+  },
+  "homepage": "https://github.com/vatsal2210/email-survey-app#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
