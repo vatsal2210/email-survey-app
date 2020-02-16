@@ -1,6 +1,5 @@
 const express = require("express");
 const app = express();
-require("./.env");
 
 app.get("/", (req, res) => {
     res.send("Hello Vatsal");
